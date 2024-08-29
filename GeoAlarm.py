@@ -4,7 +4,7 @@ import winsound
 import requests
 
 # Defining the Google API Key
-APIKEY = "AIzaSyDUX0IzOLGu-gKkO5vf5Ot6zQlEuSp5d9o"
+APIKEY = 
 
 # Initialize GMaps Client
 gmaps = googlemaps.Client(key=APIKEY)
